@@ -4,7 +4,7 @@
 > 
 > 收割 SB 的人会被 SB 们封神，试图唤醒 SB 的人是 SB 眼中的 SB。——SB 第三定律
 
-* [在线阅读](https://web3.apachecn.org)
+* [在线阅读](https://w3w.apachecn.org)
 * [在线阅读（Gitee）](https://apachecn.gitee.io/doc-template/)
 * [ApacheCN 学习资源](http://docs.apachecn.org/)
 
