@@ -20,7 +20,7 @@
 
 ### 其他
 
-*   在我们的 [apachecn/web3-wiki](https://github.com/apachecn/web3-wiki) github 上提 issue.
+*   在我们的 [apachecn/apachecn-web3-wiki](https://github.com/apachecn/apachecn-web3-wiki) github 上提 issue.
 *   发邮件到 Email: `apachecn@163.com`.
 *   在我们的 [组织学习交流群](https://www.apachecn.org/#/docs/join) 中联系群主/管理员即可.
 
@@ -29,24 +29,24 @@
 ### Docker
 
 ```
-docker pull apachecn0/web3-wiki
-docker run -tid -p <port>:80 apachecn0/web3-wiki
+docker pull apachecn0/apachecn-web3-wiki
+docker run -tid -p <port>:80 apachecn0/apachecn-web3-wiki
 # 访问 http://localhost:{port} 查看文档
 ```
 
 ### PYPI
 
 ```
-pip install web3-wiki
-web3-wiki <port>
+pip install apachecn-web3-wiki
+apachecn-web3-wiki <port>
 # 访问 http://localhost:{port} 查看文档
 ```
 
 ### NPM
 
 ```
-npm install -g web3-wiki
-web3-wiki <port>
+npm install -g apachecn-web3-wiki
+apachecn-web3-wiki <port>
 # 访问 http://localhost:{port} 查看文档
 ```
 
